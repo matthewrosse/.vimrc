@@ -1,7 +1,7 @@
 syntax on
 
 execute pathogen#infect()
-set guicursor=
+set guicursor=i:ver25-iCursor
 set noshowmatch
 set relativenumber
 set nohlsearch
